@@ -1,0 +1,40 @@
+Generated on: 2025-08-03 16:12:40
+Thinker: Jean-Paul Sartre
+Questionnaire Type: Meaning in Life
+==================================================
+
+TITLE: Sartrean Existential Meaning in Life Questionnaire (SEMLQ)
+
+DESCRIPTION: The SEMLQ is a self-report measure designed to assess an individual's perspective on meaning and purpose in life based on Jean-Paul Sartre's existential philosophy. It covers aspects of existential freedom, responsibility, self-definition, and the concept of 'bad faith'.
+
+INSTRUCTIONS: Please read each statement carefully and indicate your agreement using the scale provided. There are no right or wrong answers. Please answer according to your personal beliefs and experiences.
+
+RESPONSE SCALE: 1 (Strongly Disagree) to 7 (Strongly Agree)
+
+DIMENSION I: EXISTENTIAL FREEDOM
+1. I believe that I am free to choose my path in life.
+2. I accept that I am thrown into existence without my consent.
+3. I value my freedom to create my own meaning in life.
+4. I feel that I have infinite possibilities in life due to my existential freedom.
+5. My freedom to choose gives me a sense of control over my life.
+
+DIMENSION II: RESPONSIBILITY
+6. I take full responsibility for my decisions and actions.
+7. The choices I make shape my life's meaning and purpose.
+8. I find it challenging to accept the sole responsibility for my actions.
+9. I acknowledge that my life's meaning is a result of my choices and actions.
+10. It is up to me to define my essence.
+
+DIMENSION III: SELF-DEFINITION
+11. I am actively engaged in shaping my own identity.
+12. I constantly define and redefine my purpose in life.
+13. I believe my life's meaning is self-constructed, not predetermined.
+14. My life's essence is continuously evolving.
+
+DIMENSION IV: BAD FAITH
+15. I sometimes deceive myself into believing that my choices are limited by external factors.
+16. There are times when I avoid acknowledging my freedom to avoid existential anguish.
+17. I sometimes absolve myself from the responsibility of my choices.
+18. I find it difficult to reject 'bad faith' and fully embrace my existential freedom.
+
+The SEMLQ is a psychological tool designed to capture Sartre's unique perspective on meaning and purpose. It is not intended to diagnose or treat any conditions, but rather to provide insight into one's alignment with Sartrean existential philosophy. Please remember that everyone's philosophical beliefs are different, and this questionnaire is merely one way of exploring those beliefs.

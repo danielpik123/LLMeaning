@@ -1,0 +1,51 @@
+Generated on: 2025-08-03 16:12:03
+Thinker: Albert Camus
+Questionnaire Type: Meaning in Life
+==================================================
+
+Title: The Absurdist Meaning of Life Questionnaire (AMLQ)
+
+Description: The AMLQ is a psychological measure designed to capture aspects of Albert Camus's philosophy on meaning and purpose in life. The questionnaire focuses on the understanding of the Absurd, the acceptance of life's inherent meaninglessness, and the individual's attempt to create personal meaning and engage with life passionately, despite its absurdity. 
+
+Instructions: Please read each statement and decide to what extent the statement is true for you. Use the scale provided to indicate your response, where 1 = Strongly Disagree and 7 = Strongly Agree.
+
+Response Scale: 1 (Strongly Disagree), 2 (Disagree), 3 (Slightly Disagree), 4 (Neutral), 5 (Slightly Agree), 6 (Agree), 7 (Strongly Agree)
+
+---
+
+Dimension 1: Understanding of the Absurd
+
+1. I experience a contradiction between my desire for order and the chaotic nature of the universe.
+2. I often feel that life is fundamentally random and meaningless.
+3. Despite my attempts to find meaning in life, I often feel it remains inherently absurd.
+4. I can relate to the idea of life being like Sisyphus's futile task.
+5. I believe that the universe is indifferent to human desires and struggles.
+
+---
+
+Dimension 2: Acceptance of Life's Inherent Meaninglessness
+
+6. I accept that life may not have an inherent meaning or purpose.
+7. I can find peace in the idea that the universe does not provide an intrinsic meaning to life.
+8. I do not believe in a divine or cosmic purpose in life.
+9. I find the idea of life's inherent meaninglessness liberating rather than despairing.
+10. I reject the idea of finding meaning in life through religious or philosophical beliefs.
+
+---
+
+Dimension 3: Creation of Personal Meaning and Passionate Engagement
+
+11. Despite the inherent meaninglessness, I actively seek to create my own meaning in life.
+12. I believe that personal commitment and passion can provide a sense of purpose.
+13. I find meaning in the act of living itself.
+14. I engage passionately with life, despite its inherent absurdity.
+15. I believe that freedom arises from accepting life's inherent meaninglessness.
+16. I create my own purpose in life, rather than seeking external validation.
+17. I find beauty and value in life, even in its most absurd moments.
+18. I feel intellectually and emotionally resilient in the face of life's inherent absurdity.
+19. I believe that the acceptance of life's absurdity promotes a form of existential courage.
+20. I am motivated to live passionately, despite life's inherent absurdity.
+
+---
+
+Please note that there are no right or wrong answers. Your answers should reflect your personal beliefs and experiences. Your responses will remain confidential.

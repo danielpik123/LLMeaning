@@ -1,0 +1,42 @@
+Meaning and Purpose Scales (MAPS — Schnell & Danbolt, 2023)
+
+Response scale: 0 = Totally Disagree … 5 = Totally Agree
+
+Meaningfulness  
+1. My life is meaningful.  
+2. I have found my way.  
+3. My life makes sense to me.  
+4. I feel connected to this world.  
+5. My existence enriches the life of others.         　:contentReference[oaicite:1]{index=1}
+
+Crisis of Meaning  
+6. I am missing meaning in my life.  
+7. I suffer because I can’t see any meaning in my life.  
+8. My life seems empty to me.                        　:contentReference[oaicite:2]{index=2}
+
+Sustainability  
+9. I feel connected to all living beings and nature.  
+10. I base my actions on leaving a world worth living in for future generations.  
+11. Living in harmony with nature is important to me.  
+
+Faith  
+12. I feel connected to something transcendent or divine.  
+13. My faith or spirituality guides my life.  
+14. Nurturing my spiritual life gives me a sense of purpose.  
+
+Security  
+15. Shared rules and clear structures give me security.  
+16. Preserving traditions and common values is important to me.  
+17. An orderly community makes my life feel purposeful.  
+
+Community  
+18. Caring for the people around me is deeply meaningful to me.  
+19. I feel responsible for the well-being of my community.  
+20. Working together with familiar others gives me purpose.  
+
+Personal Growth  
+21. I am committed to continuously learning and developing.  
+22. Challenging myself to become a better person matters to me.  
+23. Improving my abilities gives my life meaning.  
+
+Scoring: compute a mean for each sub-scale (Meaningfulness, Crisis, and the five 3-item Purpose scales). Higher scores = stronger agreement with that dimension.

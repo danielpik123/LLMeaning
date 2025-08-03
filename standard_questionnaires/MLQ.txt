@@ -1,0 +1,21 @@
+Meaning in Life Questionnaire (MLQ — Steger et al., 2006)
+
+Response scale: 1 = Absolutely Untrue … 7 = Absolutely True
+
+Presence of Meaning
+1. I understand my life’s meaning.  
+2. My life has a clear sense of purpose.  
+3. I have a good sense of what makes my life meaningful.  
+4. I have discovered a satisfying life purpose.  
+5. My life has no clear purpose.    (R)
+
+Search for Meaning  
+6. I am looking for something that makes my life feel meaningful.  
+7. I am always looking to find my life’s purpose.  
+8. I am searching for meaning in my life.  
+9. I am seeking a purpose or mission for my life.  
+10. My life already has a clear purpose.    (R)
+
+Scoring: average items 1-5 for **Presence**, items 6-10 for **Search**; reverse (R) items before averaging.  
+
+

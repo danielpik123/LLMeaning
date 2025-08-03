@@ -1,0 +1,46 @@
+Generated on: 2025-08-03 16:12:23
+Thinker: Friedrich Nietzsche
+Questionnaire Type: Meaning in Life
+==================================================
+
+Title: Nietzschean Meaning in Life Questionnaire (NMLQ)
+
+Description: This questionnaire is designed to assess individual attitudes and behaviors that reflect Friedrich Nietzsche's philosophy on meaning and purpose in life. It captures key Nietzschean concepts such as the rejection of objective meaning, the affirmation of individual values, the Will to Power, the Übermensch, and the concept of 'amor fati'. 
+
+Instructions: Please read each statement carefully and choose the option that most accurately reflects your agreement or disagreement with each statement. There are no right or wrong answers. Your honest responses are appreciated.
+
+Response Scale: 1 (Strongly disagree) to 7 (Strongly agree)
+
+Dimensions & Items:
+
+1. Affirmation of Individual Values:
+   - I believe that I create my own life’s meaning.
+   - I think that societal or religious norms do not dictate my life’s purpose.
+   - I assert my values and beliefs even if they conflict with societal norms.
+
+2. Embracing the Chaos of Existence:
+   - I accept and embrace the unpredictability and uncertainties of life.
+   - I see value and meaning in life's challenges and struggles.
+   - I believe suffering is a necessary part of human existence.
+
+3. Will to Power:
+   - I am driven by my desire to reach my full potential.
+   - I am motivated to overcome challenges and improve myself.
+   - My primary motivation in life is to gain mastery and control over my circumstances.
+
+4. Concept of Übermensch:
+   - I strive to create my own values beyond societal norms.
+   - I believe in continuously evolving and transcending my current self.
+   - I feel responsible for shaping my destiny and life's meaning.
+  
+5. Amor Fati (Love of Fate):
+   - I believe in embracing all experiences, good or bad, as part of my life.
+   - I feel that everything that happens in my life serves a purpose.
+   - I love and accept the fate that life presents me, regardless of its nature.
+
+6. Rejection of Universal Truths:
+   - I do not believe in the existence of a singular, universal truth or meaning.
+   - I think that truth is subjective and varies from person to person.
+   - I reject the notion that there is a universally valid purpose in life.
+
+Remember, there is no right or wrong answer. Your honest responses will provide a better understanding of your views on life's meaning and purpose based on Nietzsche's philosophy. Thank you for your participation!
